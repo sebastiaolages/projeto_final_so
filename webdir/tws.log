@@ -1,0 +1,842 @@
+ INFO: tws starting:8181:1484
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8181**User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8**Accept-Language: en-us**Accept-Encoding: gzip, deflate**Connection: keep-alive****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8181**User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17**Accept: */***Referer: http://127.0.0.1:8181/**Accept-Language: en-us**Accept-Encoding: gzip, deflate**Connection: keep-alive****:2
+ INFO: SEND:ufp.jpg:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:2
+ INFO: request:GET /index.html HTTP/1.0 ****:3
+ INFO: SEND:index.html:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:3
+ INFO: request:GET /index.html HTTP/1.0 ****:4
+ INFO: SEND:index.html:4
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:4
+ INFO: tws starting:8181:1991
+ INFO: request:GET /index.html HTTP/1.0 ****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: tws starting:8181:2013
+ERROR: system call:bind Errno=48 exiting pid=2013
+ INFO: tws starting:8180:2024
+ INFO: request:GET /index.html HTTP/1.0 ****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /index.html HTTP/1.0 ****:2
+ INFO: SEND:index.html:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:2
+ INFO: tws starting:8180:2030
+ERROR: system call:bind Errno=48 exiting pid=2030
+ INFO: tws starting:8180:2044
+ INFO: request:GET /index.html HTTP/1.0 ****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /index.html HTTP/1.0 ****:2
+ INFO: SEND:index.html:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:2
+ INFO: request:GET /index.html HTTP/1.0 ****:3
+ INFO: SEND:index.html:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:3
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8180**User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8**Accept-Language: en-us**Accept-Encoding: gzip, deflate**Connection: keep-alive****:4
+ INFO: SEND:index.html:4
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:4
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8180**User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17**Accept: */***Referer: http://127.0.0.1:8180/**Accept-Language: en-us**Accept-Encoding: gzip, deflate**Connection: keep-alive****:5
+ INFO: SEND:ufp.jpg:5
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:5
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 127.0.0.1:8180**User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17**Accept: */***Referer: http://127.0.0.1:8180/**Accept-Language: en-us**Accept-Encoding: gzip, deflate**Connection: keep-alive****:6
+ INFO: SEND:favicon.ico:6
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 318
+Connection: close
+Content-Type: image/ico
+
+:6
+ INFO: tws starting:8180:2067
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8180**User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8**Accept-Language: en-us**Accept-Encoding: gzip, deflate**Connection: keep-alive****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8180**User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17**Accept: */***Referer: http://127.0.0.1:8180/**Accept-Language: en-us**Accept-Encoding: gzip, deflate**Connection: keep-alive****:2
+ INFO: SEND:ufp.jpg:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:2
+ INFO: request:GET /index.html HTTP/1.0 ****:3
+ INFO: SEND:index.html:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:3
+ INFO: request:GET /index.html HTTP/1.0 ****:4
+ INFO: SEND:index.html:4
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:4
+ INFO: tws starting:8180:2082
+ERROR: system call:bind Errno=48 exiting pid=2082
+ INFO: tws starting:8180:2120
+ INFO: request:GET /index.html HTTP/1.0 ****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8180**User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8**Accept-Language: en-us**Accept-Encoding: gzip, deflate**Connection: keep-alive****:2
+ INFO: SEND:index.html:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:2
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8180**User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17**Accept: */***Referer: http://127.0.0.1:8180/**Accept-Language: en-us**Accept-Encoding: gzip, deflate**Connection: keep-alive****:3
+ INFO: SEND:ufp.jpg:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:3
+ INFO: tws starting:8180:2584
+ INFO: request:GET /index.html HTTP/1.0 ****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: tws starting:8180:2590
+ERROR: system call:bind Errno=48 exiting pid=2590
+ INFO: tws starting:8180:2673
+ INFO: request:GET /index.html HTTP/1.0 ****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: tws starting:8180:2678
+ERROR: system call:bind Errno=48 exiting pid=2678
+ INFO: tws starting:8180:2682
+ERROR: system call:bind Errno=48 exiting pid=2682
+ INFO: tws starting:8180:2685
+ERROR: system call:bind Errno=48 exiting pid=2685
+ INFO: tws starting:8180:2696
+ INFO: request:GET /index.html HTTP/1.0 ****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /index.html HTTP/1.0 ****:2
+ INFO: SEND:index.html:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:2
+ INFO: tws starting:8080:158
+ INFO: request:GET /index.html HTTP/1.0 ****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /index.html HTTP/1.0 ****:2
+ INFO: SEND:index.html:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:2
+ INFO: tws starting:8080:267
+ INFO: request:GET /index.html HTTP/1.0 ****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /index.html HTTP/1.0 ****:2
+ INFO: SEND:index.html:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:2
+ INFO: tws starting:8080:276
+ INFO: request:GET /index.html HTTP/1.0 ****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: tws starting:8080:288
+ INFO: request:GET /index.html HTTP/1.0 ****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /index.html HTTP/1.0 ****:2
+ INFO: SEND:index.html:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:2
+ INFO: request:GET /index.html HTTP/1.0 ****:3
+ INFO: SEND:index.html:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:3
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8**Accept-Language: pt-PT,pt;q=0.8,en;q=0.5,en-US;q=0.3**Accept-Encoding: gzip, deflate, br**Connection: keep-alive**Upgrade-Insecure-Requests: 1**Sec-Fetch-Dest: document**Sec-Fetch-Mode: navigate**Sec-Fetch-Site: none**Sec-Fetch-User: ?1****:4
+ INFO: SEND:index.html:4
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:4
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0**Accept: image/avif,image/webp,*/***Accept-Language: pt-PT,pt;q=0.8,en;q=0.5,en-US;q=0.3**Accept-Encoding: gzip, deflate, br**Connection: keep-alive**Referer: http://127.0.0.1:8080/**Sec-Fetch-Dest: image**Sec-Fetch-Mode: no-cors**Sec-Fetch-Site: same-origin****:5
+ INFO: SEND:ufp.jpg:5
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:5
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 127.0.0.1:8080**User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0**Accept: image/avif,image/webp,*/***Accept-Language: pt-PT,pt;q=0.8,en;q=0.5,en-US;q=0.3**Accept-Encoding: gzip, deflate, br**Connection: keep-alive**Referer: http://127.0.0.1:8080/**Sec-Fetch-Dest: image**Sec-Fetch-Mode: no-cors**Sec-Fetch-Site: same-origin****:6
+ INFO: SEND:favicon.ico:6
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 318
+Connection: close
+Content-Type: image/ico
+
+:6
+ INFO: tws starting:8080:114
+ INFO: request:GET /index.html HTTP/1.0 ****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: tws starting:8080:226
+ INFO: tws starting:8080:232
+ INFO: request:GET /index.html HTTP/1.0 ****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /index.html HTTP/1.0 ****:2
+ INFO: SEND:index.html:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:2
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8**Accept-Language: pt-PT,pt;q=0.8,en;q=0.5,en-US;q=0.3**Accept-Encoding: gzip, deflate, br**Connection: keep-alive**Upgrade-Insecure-Requests: 1**Sec-Fetch-Dest: document**Sec-Fetch-Mode: navigate**Sec-Fetch-Site: none**Sec-Fetch-User: ?1****:3
+ INFO: SEND:index.html:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:3
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0**Accept: image/avif,image/webp,*/***Accept-Language: pt-PT,pt;q=0.8,en;q=0.5,en-US;q=0.3**Accept-Encoding: gzip, deflate, br**Connection: keep-alive**Referer: http://127.0.0.1:8080/**Sec-Fetch-Dest: image**Sec-Fetch-Mode: no-cors**Sec-Fetch-Site: same-origin****:4
+ INFO: SEND:ufp.jpg:4
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:4
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 127.0.0.1:8080**User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0**Accept: image/avif,image/webp,*/***Accept-Language: pt-PT,pt;q=0.8,en;q=0.5,en-US;q=0.3**Accept-Encoding: gzip, deflate, br**Connection: keep-alive**Referer: http://127.0.0.1:8080/**Sec-Fetch-Dest: image**Sec-Fetch-Mode: no-cors**Sec-Fetch-Site: same-origin****:5
+ INFO: SEND:favicon.ico:5
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 318
+Connection: close
+Content-Type: image/ico
+
+:5
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8**Accept-Language: pt-PT,pt;q=0.8,en;q=0.5,en-US;q=0.3**Accept-Encoding: gzip, deflate, br**Connection: keep-alive**Upgrade-Insecure-Requests: 1**Sec-Fetch-Dest: document**Sec-Fetch-Mode: navigate**Sec-Fetch-Site: cross-site**Sec-Fetch-User: ?1****:6
+ INFO: SEND:index.html:6
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 156
+Connection: close
+Content-Type: text/html
+
+:6
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0**Accept: image/avif,image/webp,*/***Accept-Language: pt-PT,pt;q=0.8,en;q=0.5,en-US;q=0.3**Accept-Encoding: gzip, deflate, br**Connection: keep-alive**Referer: http://127.0.0.1:8080/**Sec-Fetch-Dest: image**Sec-Fetch-Mode: no-cors**Sec-Fetch-Site: same-origin****:7
+ INFO: SEND:ufp.jpg:7
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:7
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 127.0.0.1:8080**User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0**Accept: image/avif,image/webp,*/***Accept-Language: pt-PT,pt;q=0.8,en;q=0.5,en-US;q=0.3**Accept-Encoding: gzip, deflate, br**Connection: keep-alive**Referer: http://127.0.0.1:8080/**Sec-Fetch-Dest: image**Sec-Fetch-Mode: no-cors**Sec-Fetch-Site: same-origin****:8
+ INFO: SEND:favicon.ico:8
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 318
+Connection: close
+Content-Type: image/ico
+
+:8
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8**Accept-Language: pt-PT,pt;q=0.8,en;q=0.5,en-US;q=0.3**Accept-Encoding: gzip, deflate, br**Connection: keep-alive**Upgrade-Insecure-Requests: 1**Sec-Fetch-Dest: document**Sec-Fetch-Mode: navigate**Sec-Fetch-Site: cross-site**Sec-Fetch-User: ?1****:9
+ INFO: SEND:index.html:9
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 123
+Connection: close
+Content-Type: text/html
+
+:9
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0**Accept: image/avif,image/webp,*/***Accept-Language: pt-PT,pt;q=0.8,en;q=0.5,en-US;q=0.3**Accept-Encoding: gzip, deflate, br**Connection: keep-alive**Referer: http://127.0.0.1:8080/**Sec-Fetch-Dest: image**Sec-Fetch-Mode: no-cors**Sec-Fetch-Site: same-origin****:10
+ INFO: SEND:ufp.jpg:10
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:10
+ INFO: tws starting:8080:5404
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**sec-ch-ua-platform: "Linux"**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 123
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:2
+ INFO: SEND:ufp.jpg:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:2
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:3
+ INFO: SEND:favicon.ico:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 318
+Connection: close
+Content-Type: image/ico
+
+:3
+ INFO: tws starting:8080:3087
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**sec-ch-ua-platform: "Linux"**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 123
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:2
+ INFO: SEND:ufp.jpg:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:2
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:3
+ INFO: SEND:favicon.ico:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 318
+Connection: close
+Content-Type: image/ico
+
+:3
+ INFO: tws starting:8080:3176
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**sec-ch-ua-platform: "Linux"**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 123
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:2
+ INFO: SEND:ufp.jpg:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:2
+FORBIDDEN: failed to read browser request:
+ INFO: tws starting:8080:3218
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**sec-ch-ua-platform: "Linux"**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 123
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:2
+ INFO: SEND:ufp.jpg:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:2
+ INFO: tws starting:8080:4274
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:1
+ INFO: SEND:ufp.jpg:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:1
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Cache-Control: max-age=0**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**sec-ch-ua-platform: "Linux"**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:2
+ INFO: SEND:index.html:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 123
+Connection: close
+Content-Type: text/html
+
+:2
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:3
+ INFO: SEND:ufp.jpg:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:3
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:4
+ INFO: SEND:favicon.ico:4
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 318
+Connection: close
+Content-Type: image/ico
+
+:4
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Cache-Control: max-age=0**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**sec-ch-ua-platform: "Linux"**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:5
+ INFO: SEND:index.html:5
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 123
+Connection: close
+Content-Type: text/html
+
+:5
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:6
+ INFO: SEND:ufp.jpg:6
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:6
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:7
+ INFO: SEND:favicon.ico:7
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 318
+Connection: close
+Content-Type: image/ico
+
+:7
+ INFO: tws starting:8080:4139
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:1
+ INFO: SEND:ufp.jpg:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:1
+FORBIDDEN: failed to read browser request:
+ INFO: request:GET /10 HTTP/1.0 ****:3
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:4
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:5
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:6
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:7
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Cache-Control: max-age=0**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**sec-ch-ua-platform: "Linux"**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:8
+ INFO: SEND:index.html:8
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 123
+Connection: close
+Content-Type: text/html
+
+:8
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:9
+ INFO: SEND:ufp.jpg:9
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:9
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:10
+ INFO: SEND:favicon.ico:10
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 318
+Connection: close
+Content-Type: image/ico
+
+:10
+ INFO: request:GET /10 HTTP/1.0 ****:11
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:12
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:13
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:14
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:15
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Cache-Control: max-age=0**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**sec-ch-ua-platform: "Linux"**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:16
+ INFO: SEND:index.html:16
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 123
+Connection: close
+Content-Type: text/html
+
+:16
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:17
+ INFO: SEND:ufp.jpg:17
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:17
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:18
+ INFO: SEND:favicon.ico:18
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 318
+Connection: close
+Content-Type: image/ico
+
+:18
+ INFO: request:GET /10 HTTP/1.0 ****:19
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:20
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:21
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:22
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:23
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:24
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:25
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:26
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:27
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:28
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Cache-Control: max-age=0**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**sec-ch-ua-platform: "Linux"**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:29
+ INFO: SEND:index.html:29
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 123
+Connection: close
+Content-Type: text/html
+
+:29
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:30
+ INFO: SEND:ufp.jpg:30
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:30
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:31
+ INFO: SEND:favicon.ico:31
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 318
+Connection: close
+Content-Type: image/ico
+
+:31
+ INFO: request:GET /10 HTTP/1.0 ****:32
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:33
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:34
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:35
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:36
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:37
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:38
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:39
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:40
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:41
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Cache-Control: max-age=0**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**sec-ch-ua-platform: "Linux"**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:42
+ INFO: SEND:index.html:42
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 123
+Connection: close
+Content-Type: text/html
+
+:42
+ INFO: request:GET /ufp.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:43
+ INFO: SEND:ufp.jpg:43
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 25711
+Connection: close
+Content-Type: image/jpg
+
+:43
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**sec-ch-ua: "Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"**sec-ch-ua-mobile: ?0**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36**sec-ch-ua-platform: "Linux"**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, br**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:44
+ INFO: SEND:favicon.ico:44
+ INFO: Header:HTTP/1.1 200 OK
+Server: tws/1.0
+Content-Length: 318
+Connection: close
+Content-Type: image/ico
+
+:44
+ INFO: request:GET /10 HTTP/1.0 ****:45
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:46
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:47
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:48
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:49
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:50
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:51
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:52
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:53
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:54
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:55
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:56
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:57
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:58
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:59
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:60
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:61
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:62
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:63
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:64
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:65
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:66
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:67
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:68
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:69
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:70
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:71
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:72
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:73
+FORBIDDEN: file extension type not supported:GET /10
+ INFO: request:GET /10 HTTP/1.0 ****:74
+FORBIDDEN: file extension type not supported:GET /10
